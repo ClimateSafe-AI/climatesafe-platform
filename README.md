@@ -146,3 +146,9 @@ Developed by OSP IT Digital Solutions
 Community ecosystem support:
 - UGLearn
 - Good Ground Initiative
+
+
+.env
+/vendor
+/node_modules
+/uploads
